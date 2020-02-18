@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/dyzdyz010/Golang-AStar/term"
-	"github.com/dyzdyz010/Golang-AStar/utils"
+	"golang-workspace/Graphs/Astar/term"
+	"golang-workspace/Graphs/Astar/utils"
 )
 
 type Scene struct {
